@@ -20,12 +20,20 @@ a {
   color: steelblue;
 }
 
-.introduction {
+.note {
   position: relative;
   background-color: azure;
   border: 2px solid peru;
   border-radius: 15px;
   margin: 5px;
   padding: 5px;
-  width: 300px;
+  width: 900px;
+}
+
+.note-title {
+  font-weight: 300;
+}
+
+ul li {
+  list-style: none;
 }
