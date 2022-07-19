@@ -17,14 +17,15 @@ a {
 
 .course-name {
   font-style: italic;
-  color: palevioletred;
+  color: steelblue;
 }
 
 .introduction {
   position: relative;
   background-color: azure;
-  border: 3px solid peru;
-  border-radius: 25px;
+  border: 2px solid peru;
+  border-radius: 15px;
+  margin: 5px;
   padding: 5px;
   width: 300px;
 }/*# sourceMappingURL=styles.css.map */
